@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SHAKYA PHOTOGRAPHY</title>
+    <img src="img_CompanyLogo.jpg" alt="Image of img_CompanyLogo">
+</head>
+<body>
+                <h1>About us</h1>
+    <p>We are a small Photgraphy and Video company willing to take 
+    <br /> on any challenges to make your dreams come true.</p>
+    <strong>
+        Pround Sponsor of Nepalese American Association
+    </strong>
+    <a href="http://www.NepalAmericaAssociation.com">Nepalese American Association</a>
+
+    <img src="img_Phtographer.jpg" alt="Image of Photographer">
+    <img src="img_Team.jpg" alt="Image of Team">
+    <img src="img_Sample Photograph1.jpg" alt="Image of Photograph1">
+    <img src="img_Sample Photograph2.jpg" alt="Image of Photograph2">
+    <ol>
+        <li>About Photgrapher</li>
+        <li>About Team</li>
+        <li>About Company</li>
+        <li>Event Information</li>
+        <Li>Sample Events</Li>
+      </ol>
+</body>
+<footer>
+    <i>Author: Sushil Shakya</i>
+    <label for="phone">123-456-7890:</label>
+    <small><a href="mailto:sushilphoto@gmail.com">sushilphoto@gmail.com</a></small>
+  </footer> 
+
+  <p style="page-break-after: always;">&nbsp;</p>
+  
+  <head>
+    <title>Photographer Information</title>
+    <img src="img_CompanyLogo.jpg" alt="Image of img_CompanyLogo">
+</head>
+<body>
+                <h1>Photographer Itroduction </h1>
+    <p>Born on a nestled village on the foothills of the Himalayas, 
+    <br />Suraj always dreamed of taking beautfull photographs
+    <br />to have memories of all events.</p>
+    
+    <img src="img_Phtographer.jpg" alt="Image of Photographer">
+    
+    <strong>
+        Pround Sponsor of Nepalese American Association
+    </strong>
+    <a href="http://www.NepalAmericaAssociation.com">Nepalese American Association</a>
+
+    <ol>
+        <li>Biography</li>
+        <li>History</li>
+        <li>His Company</li>
+        
+      </ol>
+</body>
+<footer>
+    <i>Author: Sushil Shakya</i>
+    <label for="phone">123-456-7890:</label>
+    <small><a href="mailto:sushilphoto@gmail.com">sushilphoto@gmail.com</a></small>
+  </footer> 
+  
+  <p style="page-break-after: always;">&nbsp;</p>
+
+  <head>
+    <title>SHAKYA PHOTO EVENT INFORMATION</title>
+    <img src="img_CompanyLogo.jpg" alt="Image of img_CompanyLogo">
+</head>
+<body>
+                <h1>Event Information</h1>
+    <p>We are willing take on any events to make your dreams come true.
+    <br /> If you do not find your events listed below
+    <br />please contact us to get an estimate.</p>
+
+    <strong>
+        Kumari Jatra (Festival of Kumari)
+    </strong>
+    <a href="http://www.KumariJatra.com">Kumari Jatra</a>
+
+    <ol>
+        <li>Weddings</li>
+        <li>Birthdays</li>
+        <li>Baby Showers</li>
+        <Li>Other Events</Li>
+      </ol>
+</body>
+<footer>
+    <i>Author: Sushil Shakya</i>
+    <label for="phone">123-456-7890:</label>
+    <small><a href="mailto:sushilphoto@gmail.com">sushilphoto@gmail.com</a></small>
+  </footer> 
+
+  <p style="page-break-after: always;">&nbsp;</p>
+
+  <head>
+    <title>SHAKYA PHOTOGRAPHY CONTACT INFORMATIPON</title>
+    <img src="img_CompanyLogo.jpg" alt="Image of img_CompanyLogo">
+</head>
+<body>
+                <h1>Our Contact Information</h1>
+    <p>please feel free to contact us between 9:00 AM and 7:00PM CST 
+    <br /> or send us a message below or you can email us anytime.</p>
+    <strong>
+        Pround Sponsor of Nepalese American Association
+    </strong>
+    <a href="http://www.NepalAmericaAssociation.com">Nepalese American Association</a>
+
+</body>
+<footer>
+    <i>Author: Sushil Shakya</i>
+    <label for="phone">123-456-7890:</label>
+    <small><a href="mailto:sushilphoto@gmail.com">sushilphoto@gmail.com</a></small>
+  </footer> 
+
+  </html>
+
+
